@@ -1,0 +1,78 @@
+primary_name: "Zhenyu Lei"
+secondary_name: "(雷镇宇)"
+navbar_name: "Zhenyu Lei"
+
+positions:
+- name: Pursuing M.S. at
+- name: School of Cyberscience and Engineering, Southeast University
+  # logo: /assets/images/badges/SEU_icon.svg  # Logo is optional
+
+
+email: "zhenyu.lei@163.com"
+cv_link: /assets/files/Zhenyu_Lei_CV.pdf
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: https://github.com/zhenyv-lei
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+linkedin: zhenyu-lei-b85926376
+orcid: 0009-0005-6840-7602
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    Hello! My name is <strong>Zhenyu Lei</strong> (pronounced like "Jen-yoo Lei"). 
+    I am currently pursuing a M.S. degree in Southeast University, fortunate to be advised by <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>. 
+  </p>
+  <p>
+    My primary research interest lies in <strong>Hardware Fuzzing</strong> for <strong>Microarchitectural Security</strong>, aiming to 1) automate the process of finding leakage primitives, 2) exploit them via side-channels, and 3) develop defenses against these attacks. Furthermore, I am currently exploring <strong>AI-driven approaches</strong> (e.g., Retrieval-Augmented Generation), to assist in the discovery of unknown microarchitectural vulnerabilities.
+  </p>
+  <blockquote class="phd-seeking">
+    <p>
+      I am currently seeking Ph.D. opportunities starting in Fall 2026. 
+    </p>
+  </blockquote>
+
+portrait_url: /assets/images/photos/portrait.jpeg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: Southeast University
+  logo: /assets/images/badges/SEU_icon.svg
+  position: >- 
+    School of Cyberscience and Engineering <br/>
+    M.S. Student
+  date: Sep. 2023 - present
+- name: Southeast University
+  logo: /assets/images/badges/SEU_icon.svg
+  position: >- 
+    <b> Youth Class (少年班) </b> <br/>
+    School of Cyberscience and Engineering <br/>
+    B.S. in Cyber Science
+  date: Sep. 2019 - Jul. 2023
+
+experience:
+- name: Alibaba Cloud (Whale Cloud Technology)
+  logo: /assets/images/badges/alibaba-color.svg
+  position: Security Summer Intern
+  # dept: |
+  #   <ul>
+  #     <li>Monitored real-time network traffic using Splunk, analyzing over 1,000 daily security alerts to identify and escalate 5 potential intrusion attempts.</li>
+  #     <li>Developed a Python script to automate the parsing of phishing email headers, reducing manual analysis time for the team by 30%.</li>
+  #     <li>Assisted in conducting vulnerability assessments for 3 internal web applications by using tools like Burp Suite, and contributed to the drafting of detailed remediation reports.</li>
+  #   </ul>
+  date: Jun. 2023 - Jul. 2023
+
+awards:
+- name: SEU Second Prize Postgraduate Academic Scholarship
+  date: 2024
+- name: SEU Outstanding Student (Top 15 annually)
+  date: 2023
+- name: SEU Outstanding Undergraduate Thesis Award
+  date: 2023
+- name: SEU Outstanding Volunteer
+  date: 2022
+- name: SEU Outstanding Youth (Top 10 annually)
+  date: 2021
