@@ -1,6 +1,6 @@
 ---
-title:          "Semantics-Guided Black-box Fuzzing for Microarchitectural Vulnerabilities in Processors"
-date:           2025-12-01 00:00:00 +0800
+title:          "Semantics-Guided Black-Box Fuzzing for Microarchitectural Vulnerabilities in Processors"
+date:           2025-12-01 00:00:00 +0800 
 selected:       true
 pub:            " Master Thesis Research"
 # pub_date:       "Mar 2025 - Present"

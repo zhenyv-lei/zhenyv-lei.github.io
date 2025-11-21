@@ -19,7 +19,7 @@ authors:
   - Liting Zeng
   - Yifeng Yang
   - Qiwei Zong
-  - Advised by Prof. Sanfeng Zhang
+  - Advised by Prof. Fei Tong
 
 links:
   # Code: https://github.com/luost26/bubble-visual-hash
