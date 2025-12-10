@@ -9,7 +9,7 @@ positions:
 
 
 email: "zhenyu.lei@163.com"
-cv_link: /assets/files/Zhenyu_Lei_CV.pdf
+cv_link: /assets/files/Zhenyu_Lei_CV(Curriculum Vitae).pdf
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: zhenyv-lei
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -43,14 +43,14 @@ education:
   logo: /assets/images/badges/SEU_icon.svg
   position: >- 
     School of Cyberscience and Engineering <br/>
-    M.S. Student
+    M.Eng. Student
   date: Sep. 2023 - present
 - name: Southeast University
   logo: /assets/images/badges/SEU_icon.svg
   position: >- 
     <b> Youth Class (少年班) </b> <br/>
     School of Cyberscience and Engineering <br/>
-    B.S. in Cyber Science
+    B.Eng. in Cyber Science
   date: Sep. 2019 - Jul. 2023
 
 experience:
