@@ -43,7 +43,7 @@ education:
   logo: /assets/images/badges/SEU_icon.svg
   position: >- 
     School of Cyberscience and Engineering <br/>
-    M.Eng. Student
+    M.Eng. in Cyberspace Security
   date: Sep. 2023 - present
 - name: Southeast University
   logo: /assets/images/badges/SEU_icon.svg
@@ -69,7 +69,7 @@ experience:
   #     <li>Developed a Python script to automate the parsing of phishing email headers, reducing manual analysis time for the team by 30%.</li>
   #     <li>Assisted in conducting vulnerability assessments for 3 internal web applications by using tools like Burp Suite, and contributed to the drafting of detailed remediation reports.</li>
   #   </ul>
-  date: Jun. 2023 - Jul. 2023
+  date: May. 2023 - Jul. 2023
 
 awards:
 - name: SEU Second Prize Postgraduate Academic Scholarship
