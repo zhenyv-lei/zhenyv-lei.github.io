@@ -60,9 +60,11 @@ experience:
     School of Computing <br/>
     Research Intern | Hardware Security
   date: Jan. 2026 - present
-- name: Alibaba Cloud (Whale Cloud Technology)
+- name: Alibaba Cloud
   logo: /assets/images/badges/Alibaba_icon.svg
-  position: Security Summer Intern
+  position: >-
+    Whale Cloud <br/>
+    Security Summer Intern
   # dept: |
   #   <ul>
   #     <li>Monitored real-time network traffic using Splunk, analyzing over 1,000 daily security alerts to identify and escalate 5 potential intrusion attempts.</li>
