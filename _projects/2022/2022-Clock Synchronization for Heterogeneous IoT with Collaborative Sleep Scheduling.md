@@ -5,7 +5,7 @@ selected:       false
 pub:            " "
 
 # pub_date:       "Oct 2020 - May 2021"
-pub_pre:        <span class="badge badge-pill badge-publication badge-success">High-Performance Systems </span>
+pub_pre:        <span class="badge badge-pill badge-publication badge-primary">High-Performance Systems </span>
 pub_post:       <span class="badge badge-pill badge-publication">Oct 2021 - May 2022</span>
 
 abstract: >-
@@ -19,7 +19,7 @@ authors:
   - Liting Zeng
   - Yifeng Yang
   - Qiwei Zong
-  - Advised by Prof. Fei Tong
+  - Advised by Prof. Fei Tong (SEU)
 
 links:
   # Code: https://github.com/luost26/bubble-visual-hash

@@ -26,17 +26,11 @@ short_bio: >-
     I am currently pursuing an M.S. degree at Southeast University, fortunate to be advised by <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>. 
   </p>
   <p>
-    My primary research interest lies in <strong>Hardware Fuzzing</strong> for <strong>Microarchitectural Security</strong>, aiming to 1) automate the process of finding leakage primitives, 2) exploit them via side-channels, and 3) develop defenses against these attacks. Furthermore, I am currently exploring <strong>AI-driven approaches</strong> (e.g., Retrieval-Augmented Generation), to assist in the discovery of unknown microarchitectural vulnerabilities.
+    My primary research interest lies in Microarchitectural Security across the full lifecycle. On the post-silicon side,I develop feedback-driven fuzzing techniques (Revizor-E3) to automatically identify timing leaking behaviors in deployed processors. On the pre-silicon side, I design contract-based formal verification frameworks (SoC Contract) to provide provable security guarantees for processor designs at the RTL stage.
   </p>
-  <blockquote class="phd-seeking">
-    <p>
-      I am currently seeking Ph.D. opportunities starting in Fall 2026. 
-    </p>
-  </blockquote>
+
 
 portrait_url: /assets/images/photos/Zhenyu_Lei_Portrait.jpeg
-# portrait_caption: >-
-#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Southeast University
@@ -58,19 +52,13 @@ experience:
   logo: /assets/images/badges/NUS_logo_full-vertical.jpg
   position: >- 
     School of Computing <br/>
-    Research Intern | Hardware Security
+    Research Intern | Formal Verification
   date: Jan. 2026 - present
 - name: Alibaba Cloud
   logo: /assets/images/badges/Alibaba_icon.svg
   position: >-
     Whale Cloud <br/>
     Security Summer Intern
-  # dept: |
-  #   <ul>
-  #     <li>Monitored real-time network traffic using Splunk, analyzing over 1,000 daily security alerts to identify and escalate 5 potential intrusion attempts.</li>
-  #     <li>Developed a Python script to automate the parsing of phishing email headers, reducing manual analysis time for the team by 30%.</li>
-  #     <li>Assisted in conducting vulnerability assessments for 3 internal web applications by using tools like Burp Suite, and contributed to the drafting of detailed remediation reports.</li>
-  #   </ul>
   date: May. 2023 - Jul. 2023
 
 awards:

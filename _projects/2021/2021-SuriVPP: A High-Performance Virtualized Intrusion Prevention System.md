@@ -5,7 +5,7 @@ selected:       false
 pub:            " Core Member | <strong>1st Place</strong>, National Undergraduate Extracurricular Sci&Tech Competition"
 
 # pub_date:       "Jul 2021 - Nov 2021"
-pub_pre:        <span class="badge badge-pill badge-publication badge-success">High-Performance Systems </span>
+pub_pre:        <span class="badge badge-pill badge-publication badge-primary">High-Performance Systems </span>
 pub_post:       <span class="badge badge-pill badge-publication">Jul 2021 - Nov 2021</span>
 
 abstract: >-
@@ -16,7 +16,7 @@ cover:          /assets/images/covers/2021-SuriVPP A High-Performance Virtualize
 authors:
   - Zhenyu Lei
   - ...
-  - Advised by Prof. Sanfeng Zhang
+  - Advised by Prof. Sanfeng Zhang (SEU)
 
 links:
   # Code: https://github.com/luost26/bubble-visual-hash

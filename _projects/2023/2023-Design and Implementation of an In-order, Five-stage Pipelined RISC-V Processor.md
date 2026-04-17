@@ -4,7 +4,7 @@ date:           2023-06-01 00:01:00 +0800
 selected:       false
 pub:            " <strong>Independent Project</strong>, Institute of Computing Technology, Chinese Academy of Sciences"
 # pub_date:       "Sep 2022 – Jun 2023"
-pub_pre:        <span class="badge badge-pill badge-publication badge-success">High-Performance Systems </span>
+pub_pre:        <span class="badge badge-pill badge-publication badge-primary">High-Performance Systems </span>
 pub_post:       <span class="badge badge-pill badge-publication">Sep 2022 – Jun 2023</span>
 abstract: >-
   1) Designed and implemented a tape-out ready RISC-V SoC, key modules including Instruction Decode Unit (IDU), Arithmetic Logic Unit (ALU), data/instruction memory, General Purpose Registers (GPRs), and Control and Status Registers (CSRs).<br/>

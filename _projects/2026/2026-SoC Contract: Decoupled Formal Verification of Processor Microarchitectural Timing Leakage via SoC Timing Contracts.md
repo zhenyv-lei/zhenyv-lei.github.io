@@ -1,0 +1,18 @@
+---
+title:          "SoC Contract: Decoupled Formal Verification of Processor Microarchitectural Timing Leakage via SoC Timing Contracts"
+date:           2026-1-01 00:00:00 +0800
+selected:       true
+pub:            " Master Thesis Research"
+# pub_date:       "Mar 2025 - Present"
+pub_pre:        <span class="badge badge-pill badge-publication badge-success">Formal Verification</span>
+pub_post:       <span class="badge badge-pill badge-publication">Jan 2026 - Present</span>
+abstract: >-
+  Delivering Core Contributions: 1) a Three-Level SoC Timing Contract Hierarchy (C1/C2/C3) formalizing the timing influence between
+  processor cores and platform components with lattice-based partial ordering; 2) a Timing Contract Instrumentation (TCI) methodencoding contracts into synthesizable circuit logic for platform-free verification; and 3) a Bidirectional Decoupled VerificationStrategy splitting SoC security proofs into independent CPU-side and platform-side verifications, achieving security guaranteeswithin 2.3h where combined verification times out after 7 days.
+cover:          /assets/images/covers/2026-SoC-Contract-Decoupled-Formal-Verification.png
+authors:
+- Zhenyu Lei
+- Advised by Prof. Flavien Solt (NUS)
+# links:
+  # Paper: https://www.cell.com
+---

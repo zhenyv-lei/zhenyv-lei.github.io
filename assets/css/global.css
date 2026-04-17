@@ -86,6 +86,11 @@ div.lazy {
     font-size: 100%;
 }
 
+.badge-warning {
+    color: #fff;
+    background-color: #EA580C;
+}
+
 .email-text {
     font-family: Source Code Pro, monospace;
 }
