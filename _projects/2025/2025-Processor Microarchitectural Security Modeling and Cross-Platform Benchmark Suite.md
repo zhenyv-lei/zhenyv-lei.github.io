@@ -1,7 +1,7 @@
 ---
 title:          "Processor Microarchitectural Security Modeling and Cross-Platform Benchmark Suite"
 date:           2025-07-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            " Funded by the Cyber Security Association of China (¥60,000)"
 pub_pre:        <span class="badge badge-pill badge-publication badge-danger">Microarchitectural Security</span>
 pub_post:       <span class="badge badge-pill badge-publication">Jul 2025 - Present</span>
