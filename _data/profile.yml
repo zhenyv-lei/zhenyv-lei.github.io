@@ -3,13 +3,13 @@ secondary_name: "(雷镇宇)"
 navbar_name: "LEI ZHENYU"
 
 positions:
-- name: Pursuing M.S. at
-- name: the School of Cyberscience and Engineering, Southeast University
+- name: Pursuing M.Eng. at
+- name: the School of Cyber Science and Engineering, Southeast University
   # logo: /assets/images/badges/SEU_icon.svg  # Logo is optional
 
 
 email: "zhenyu.lei@163.com"
-# cv_link: /assets/files/Zhenyu_Lei_CV(Curriculum Vitae).pdf
+cv_link: /assets/files/Zhenyu_Lei_CV(Curriculum Vitae).pdf
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: zhenyv-lei
 twitter: zhenyv_lei  # Do not include the '@' symbol
@@ -26,7 +26,7 @@ short_bio: >-
     I am currently pursuing an M.S. degree at Southeast University, fortunate to be advised by <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>. 
   </p>
   <p>
-    My primary research interest lies in Microarchitectural Security across the full lifecycle. On the post-silicon side,I develop feedback-driven fuzzing techniques ( <em>Revizor-E3</em> ) to automatically identify timing leaking behaviors in deployed processors. On the pre-silicon side, I design contract-based formal verification frameworks ( <em>SoC Contract</em> ) to provide provable security guarantees for processor designs at the RTL stage.
+    My research focuses on computer architecture, with an emphasis on automated testing and formal methods for improving system reliability.
   </p>
 
 
@@ -58,7 +58,7 @@ experience:
   logo: /assets/images/badges/Alibaba_icon.svg
   position: >-
     Whale Cloud <br/>
-    Security Summer Intern
+    Summer Intern
   date: May. 2023 - Jul. 2023
 
 awards:
