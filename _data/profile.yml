@@ -54,12 +54,12 @@ experience:
     School of Computing <br/>
     Research Intern | Formal Verification
   date: Jan. 2026 - present
-- name: Alibaba Cloud
-  logo: /assets/images/badges/Alibaba_icon.svg
-  position: >-
-    Whale Cloud <br/>
-    Summer Intern
-  date: May. 2023 - Jul. 2023
+# - name: Alibaba Cloud
+#   logo: /assets/images/badges/Alibaba_icon.svg
+#   position: >-
+#     Whale Cloud <br/>
+#     Summer Intern
+#   date: May. 2023 - Jul. 2023
 
 awards:
 - name: SEU Second Prize Postgraduate Academic Scholarship
