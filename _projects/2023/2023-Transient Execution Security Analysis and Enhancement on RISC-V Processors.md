@@ -3,7 +3,7 @@ title:          "Transient Execution Security Analysis and Enhancement on RISC-V
 date:           2023-06-01 00:02:00 +0800
 selected:       false
 pub:            " <strong>Outstanding Undergraduate Thesis</strong>, Southeast University"
-pub_pre:        <span class="badge badge-pill badge-publication badge-danger">Microarchitectural Security</span>
+pub_pre:        <span class="badge badge-pill badge-publication badge-danger">CPU Microarchitectural Security</span>
 pub_post:       <span class="badge badge-pill badge-publication">Dec 2022 – Jun 2023</span>
 abstract: >-
   1) Analyzed Spectre v1 timing behavior on RISC-V processors and

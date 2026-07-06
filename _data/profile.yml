@@ -3,72 +3,88 @@ secondary_name: "(雷镇宇)"
 navbar_name: "LEI ZHENYU"
 
 positions:
-- name: Pursuing M.Eng. at
-- name: the School of Cyber Science and Engineering, Southeast University
-  # logo: /assets/images/badges/SEU_icon.svg  # Logo is optional
+- name: Incoming Ph.D. Student at
+- name: the Department of Computer Science, University of Rochester
+  # logo: /assets/images/badges/UR_icon_vertical.svg  # Logo is optional
 
 
 email: "zhenyu.lei@163.com"
 cv_link: /assets/files/Zhenyu_Lei_CV(Curriculum Vitae).pdf
-# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+# gscholar: KPtdHMgAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: zhenyv-lei
-twitter: zhenyv_lei  # Do not include the '@' symbol
+# twitter: zhenyv_lei  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: zhenyv-lei
-orcid: 0009-0005-6840-7602
+# orcid: 0009-0005-6840-7602
 
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Hello! My name is <strong>Zhenyu Lei</strong> (pronounced like "Jen-yoo Lei"). 
-    I am currently pursuing an M.S. degree at Southeast University, fortunate to be advised by <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>. 
+    Hello! My name is <strong>Zhenyu Lei</strong> (pronounced like "Jen-yoo Lei").
+    I am an incoming Ph.D. student at the University of Rochester, advised by <a href="https://yananguo.com/" target="_blank">Prof. Yanan Guo</a>. I received my M.Eng. degree in Cyberspace Security at Southeast University, advised by <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>.
   </p>
   <p>
-    My research focuses on computer architecture, with an emphasis on automated testing and formal methods for improving system reliability.
+    My past research focused on CPU microarchitectural security, using fuzzing and formal methods. I am currently expanding my research toward GPU performance and security.
   </p>
 
 
-portrait_url: /assets/images/photos/Zhenyu_Lei_Portrait.jpeg
+portrait_url: /assets/images/photos/Zhenyu_Lei_Portrait.png
 
 education:
+- name: University of Rochester
+  logo: /assets/images/badges/UR_icon_vertical.svg
+  position: >-
+    Department of Computer Science <br/>
+    Ph.D. in Computer Science, advised by <a href="https://yananguo.com/" target="_blank">Prof. Yanan Guo</a>
+  date: Starting Aug. 2026
+
 - name: Southeast University
   logo: /assets/images/badges/SEU_icon.svg
-  position: >- 
-    School of Cyberscience and Engineering <br/>
-    M.Eng. in Cyberspace Security
-  date: Sep. 2023 - present
+  position: >-
+    School of Cyber Science and Engineering <br/>
+    M.Eng. in Cyberspace Security, advised by <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>
+  date: Sep. 2023 - Jun. 2026
+
 - name: Southeast University
   logo: /assets/images/badges/SEU_icon.svg
-  position: >- 
+  position: >-
     <b> Youth Class (少年班) </b> <br/>
-    School of Cyberscience and Engineering <br/>
+    School of Cyber Science and Engineering <br/>
     B.Eng. in Cyber Science
-  date: Sep. 2019 - Jul. 2023
+  date: Sep. 2019 - Jun. 2023
 
 experience:
+- name: Beijing Institute of Open Source Chip
+  logo: /assets/images/badges/BOSC_icon.svg
+  position: >-
+    Technical R&D Department <br/>
+    Security Verification Intern
+  date: May. 2026 - present
+
 - name: National University of Singapore
-  logo: /assets/images/badges/NUS_logo_full-vertical.jpg
-  position: >- 
+  logo: /assets/images/badges/NUS_icon_vertical.svg
+  position: >-
     School of Computing <br/>
-    Research Intern | Formal Verification
-  date: Jan. 2026 - present
-# - name: Alibaba Cloud
-#   logo: /assets/images/badges/Alibaba_icon.svg
-#   position: >-
-#     Whale Cloud <br/>
-#     Summer Intern
-#   date: May. 2023 - Jul. 2023
+    Research Intern, advised by <a href="https://flaviens.github.io/" target="_blank">Prof. Flavien Solt</a>
+  date: Dec. 2025 - May. 2026
+
+- name: Alibaba Cloud
+  logo: /assets/images/badges/Alibaba_icon.svg
+  position: >-
+    Whale Cloud <br/>
+    Summer Intern
+  date: May. 2023 - Jul. 2023
 
 awards:
-- name: SEU Second Prize Postgraduate Academic Scholarship
-  date: 2024
+# - name: SEU Second Prize Postgraduate Academic Scholarship
+#   date: 2024
 - name: SEU Outstanding Student (Top 15 annually)
   date: 2023
-- name: SEU Outstanding Undergraduate Thesis Award
-  date: 2023
-- name: SEU Outstanding Volunteer
-  date: 2022
+# - name: SEU Outstanding Undergraduate Thesis
+#   date: 2023
+# - name: SEU Outstanding Volunteer
+#   date: 2022
 - name: SEU Outstanding Youth (Top 10 annually)
   date: 2021
